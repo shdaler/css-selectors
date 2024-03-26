@@ -9,3 +9,15 @@
 img ~ p {
   color: red;
 }
+
+.list > li {
+  border: 1px solid aqua;
+}
+
+input[type="text"] {
+  border: 4px solid green;
+}
+
+a[href="link"] {
+  color: olive;
+}
