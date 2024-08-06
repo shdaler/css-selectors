@@ -11,7 +11,7 @@ img ~ p {
 }
 
 .list > li {
-  border: 1px solid aqua;
+  border: 1px solid rgba(0, 255, 255, 0.903);
 }
 
 input[type="text"] {
@@ -19,7 +19,7 @@ input[type="text"] {
 }
 
 a[href="link"] {
-  color: rgb(113, 113, 2);
+  color: rgb(131, 131, 3);
 }
 
 img[src$="png"] {
